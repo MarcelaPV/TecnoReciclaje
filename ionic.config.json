@@ -1,0 +1,7 @@
+{
+  "name": "TenoReciclaje",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
